@@ -1,8 +1,9 @@
 import discord
 import re
 import math
+import os
 
-TOKEN = "Nzk0NjI4ODM4OTY4NjU1ODgy.X-9lxg.nkF_k8LzuVU_64MbpF0tCiPjr9c"
+TOKEN = os.environ['DISCORD_BOT_TOKEN']
 
 #反応
 fastHant = "/"
