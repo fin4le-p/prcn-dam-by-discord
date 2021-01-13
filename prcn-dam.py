@@ -2,7 +2,7 @@ import discord
 import re
 import math
 
-TOKEN = "Nzk0NjI4ODM4OTY4NjU1ODgy.X-9lxg.XjI8M3QKpjN11YwKBMDXrWtKj5Y"
+TOKEN = "Nzk0NjI4ODM4OTY4NjU1ODgy.X-9lxg.nkF_k8LzuVU_64MbpF0tCiPjr9c"
 
 #反応
 fastHant = "/"
